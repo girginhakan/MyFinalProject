@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UdsVWqG4PUB8vA4T9sEMwW/9E1TxZmbsYnI/F92IhXNmJpiRyqiNjKzopj9p8PCfEYJ0baUOZU1jV9gxCrVZrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Atum\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Atum\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

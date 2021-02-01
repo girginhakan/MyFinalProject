@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3kLyUSWas9G0mMs+1h/0FGYE9l/J9s94C9PzKNy4fAOxYCwQosAFwS7KgcOxHnB9cbN53n/hrSHM6VwkihDeMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Atum\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Atum\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
