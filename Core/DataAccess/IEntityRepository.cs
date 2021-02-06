@@ -1,10 +1,10 @@
-﻿using Entities.Abstrack;
+﻿using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAccess.Abstrack
+namespace Core.DataAccess
 {
     //class referans tip demek
     //IEntity IEntity olabilir yada ondan implement edilen bir class olabilir.
