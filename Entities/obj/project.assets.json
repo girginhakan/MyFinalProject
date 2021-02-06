@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Atum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Atum\\AppData\\Roaming\\NuGet\\NuGet.Config",

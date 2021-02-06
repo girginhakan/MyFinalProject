@@ -6221,11 +6221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Atum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Atum\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6242,8 +6242,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Entities\\Entities.csproj"
             }
           }
         }
