@@ -6205,11 +6205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Atum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Atum\\AppData\\Roaming\\NuGet\\NuGet.Config",

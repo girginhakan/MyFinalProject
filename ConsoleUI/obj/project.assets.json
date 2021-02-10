@@ -5733,11 +5733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Atum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Atum\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5754,14 +5754,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Business\\Business.csproj"
+            "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Entities\\Entities.csproj"
             }
           }
         }

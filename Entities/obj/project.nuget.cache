@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VbhIbkQBoKYgNgVG2/DQQ94CZYf8YuSBzxs+q86nl2Op5z3r3tL3ZbTGUQuXv6q8Si9NXb3My/hdcJyIE/Il/g==",
+  "dgSpecHash": "71nuoOzJhheOsJLy8PDk7c6m9oeFvTGHUz+BJ1qRcgX/NjR5boLU7LcXaycaIfK9Gl0bwlfz8XQO5dbZ3/ZpkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Atum\\Source\\Repos\\MyFinalProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Atum\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Atum\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
