@@ -4,9 +4,12 @@ using Core.Utilities.Results;
 using DataAccess.Abstrack;
 using Entities.Concrete;
 using Entities.DTOs;
+using FluentValidation;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Business.ValidationRules.FluentValidation;
+using Core.CrossCuttingConcerns.Validation;
 
 namespace Business.Concrete
 {
@@ -23,12 +26,11 @@ namespace Business.Concrete
         {
             //business code
             //buraya ürün eklemeden önce gerekli koşullar varsa yazılır.
-            if (product.ProductName.Length<2)
-            {
-                //magic strings
-                return new ErrorResult("Ürün ismi en az 2 karakter olmalıdır.");
-            }
-             _productDal.Add(product);
+            //validation
+
+            ValidationTool.Validate(new ProductValidator(), product);
+
+            _productDal.Add(product);
             return new SuccessResult(Messages.ProductAdded);
         }
 

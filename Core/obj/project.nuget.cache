@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LDRbGXXGB290qAWMHXqAflqc/X+TLsfz4pj0Gfwb1iY+RGB6RUyTjeyz0T7r5ndks77G2qnPuiiwdSwhLdvsuQ==",
+  "dgSpecHash": "GOkEbOS0sEdqGNtGdhi0U8iSHnggNE7e9/dHpjRQrfEM2d/jlQ5E17pBeTwOe/i8+jpn3OPwOvT+OHNCaX9Wpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Atum\\Documents\\GitHub\\MyFinalProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Atum\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\Atum\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Atum\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Atum\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
