@@ -122,3 +122,8 @@ C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\
 C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
 C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
 C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
