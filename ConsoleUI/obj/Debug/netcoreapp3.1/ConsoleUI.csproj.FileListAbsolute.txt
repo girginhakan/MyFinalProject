@@ -127,3 +127,5 @@ C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\
 C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Atum\Documents\GitHub\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll

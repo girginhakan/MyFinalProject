@@ -14,6 +14,7 @@ using Business.ValidationRules.FluentValidation;
 using Core.Aspects.Autofac.Validation;
 using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Business;
+using Business.BusinessAspect.Autofac;
 
 namespace Business.Concrete
 {
@@ -27,6 +28,8 @@ namespace Business.Concrete
             _productDal = productDal;
             _categoryService = categoryService;
         }
+        //Claim
+        [SecuredOperation("product.add,admin")]
         [ValidationAspect(typeof(ProductValidator))]
         public IResult Add(Product product)
         {
