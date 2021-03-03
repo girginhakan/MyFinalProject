@@ -19,6 +19,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
+using Core.Utilities.IoC;
 
 namespace WebAPI
 {
@@ -57,6 +58,7 @@ namespace WebAPI
                         IssuerSigningKey = SecurityKeyHelper.CreateSecurityKey(tokenOptions.SecurityKey)
                     };
                 });
+            ServiceTool.Create(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
